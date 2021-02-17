@@ -52,7 +52,7 @@ codegen/
 # Octave session info
 octave-workspace
 
-*.pdf
+
 *.png
 *.jpg
 *.bmp
